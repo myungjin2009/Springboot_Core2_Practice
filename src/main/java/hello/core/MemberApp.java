@@ -13,7 +13,7 @@ public class MemberApp {
         memberService.join(memberA);
 
         Member findMember = memberService.findMember(1L);
-        System.out.println("inserted Member = " + findMember.getName());
         System.out.println("original memberA = " + memberA.getName());
+        System.out.println("inserted Member = " + findMember.getName());
     }
 }
