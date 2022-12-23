@@ -4,7 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96efd48d-fd45-4001-9249-b34161c4a49a" name="Changes" comment="" />
+    <list default="true" id="fd7e469c-df7a-49ad-8da7-6c508eef9340" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/hello/core/CoreApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/hello/core/CoreApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/hello/core/MemberApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/hello/core/member/Grade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/hello/core/member/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/hello/core/member/MemberRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/hello/core/member/MemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/hello/core/member/MemberServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/hello/core/member/RAMMemberRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/hello/core/CoreApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/hello/core/member/MemberServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/core/MemberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/core/member/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/core/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/core/member/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/core/member/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/core/member/MemberServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/core/member/RAMMemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hello/core/member/MemberServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,14 +102,14 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/1PROJECT/SpringBoot_Core2_Practice",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/1PROJECT/SpringBoot_Core2_Practice&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.MemberServiceTest.join">
     <configuration name="CoreApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hello.core.CoreApplication" />
