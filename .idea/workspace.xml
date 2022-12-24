@@ -55,6 +55,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -164,6 +167,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge Conflict" />
+    <MESSAGE value="기존 Service 객체에서의 OCP,DIP 위반 해결을 위한 AppConfig 객체 생성, Depencency Injection 공부, 연습" />
+    <option name="LAST_COMMIT_MESSAGE" value="기존 Service 객체에서의 OCP,DIP 위반 해결을 위한 AppConfig 객체 생성, Depencency Injection 공부, 연습" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
